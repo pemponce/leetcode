@@ -34,7 +34,6 @@ class Solution {
                 }
             }
         }
-
         return stack.size() == 0;
     }
 }
