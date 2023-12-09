@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/MergeTwoSortedLists/MergeTwoSortedLists.iml" filepath="$PROJECT_DIR$/justSolutions/MergeTwoSortedLists/MergeTwoSortedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/justSolutions/RemoveDuplicates/RemoveDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/RemoveElem/RemoveElem.iml" filepath="$PROJECT_DIR$/justSolutions/RemoveElem/RemoveElem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/SearchInsPos/SearchInsPos.iml" filepath="$PROJECT_DIR$/justSolutions/SearchInsPos/SearchInsPos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/TheIndOfFirstOcc/TheIndOfFirstOcc.iml" filepath="$PROJECT_DIR$/justSolutions/TheIndOfFirstOcc/TheIndOfFirstOcc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasks_1_day/Two_sum/Two_sum.iml" filepath="$PROJECT_DIR$/tasks_1_day/Two_sum/Two_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/justSolutions/ValidParentheses/ValidParentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secDay/secDay.iml" filepath="$PROJECT_DIR$/secDay/secDay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasks_1_day/second/second.iml" filepath="$PROJECT_DIR$/tasks_1_day/second/second.iml" />
+    </modules>
+  </component>
+</project>
