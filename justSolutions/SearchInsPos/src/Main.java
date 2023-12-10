@@ -13,7 +13,7 @@ class Solution {
 
         int result = 0;
 
-        if(nums.length > 1) {
+        if (nums.length > 1) {
             for (int j = 0; j < nums.length / 2; j++) {
                 for (int i = 0; i < nums.length - 1; i++) {
                     if (nums[i] > nums[i + 1]) {
@@ -33,17 +33,17 @@ class Solution {
                         result = k + 1;
                     } else if (nums[nums.length - 1] < target) {
                         result = nums.length;
-                    } else if(nums[k] == target) {
+                    } else if (nums[k] == target) {
                         result = k;
-                    } else if(nums[k + 1] == target) {
+                    } else if (nums[k + 1] == target) {
                         result = k + 1;
                     }
                 }
             }
         } else {
-            if(nums[0] > target) {
+            if (nums[0] > target) {
                 return result;
-            } else if(nums[0] < target){
+            } else if (nums[0] < target) {
                 result = 1;
             } else {
                 return result;

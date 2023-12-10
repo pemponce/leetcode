@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/LastWordLen/LastWordLen.iml" filepath="$PROJECT_DIR$/justSolutions/LastWordLen/LastWordLen.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/MergeTwoSortedLists/MergeTwoSortedLists.iml" filepath="$PROJECT_DIR$/justSolutions/MergeTwoSortedLists/MergeTwoSortedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/justSolutions/RemoveDuplicates/RemoveDuplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/RemoveElem/RemoveElem.iml" filepath="$PROJECT_DIR$/justSolutions/RemoveElem/RemoveElem.iml" />
