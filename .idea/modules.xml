@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/justSolutions/LastWordLen/LastWordLen.iml" filepath="$PROJECT_DIR$/justSolutions/LastWordLen/LastWordLen.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/MergeTwoSortedLists/MergeTwoSortedLists.iml" filepath="$PROJECT_DIR$/justSolutions/MergeTwoSortedLists/MergeTwoSortedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/PlusOne/PlusOne.iml" filepath="$PROJECT_DIR$/justSolutions/PlusOne/PlusOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/justSolutions/RemoveDuplicates/RemoveDuplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/RemoveElem/RemoveElem.iml" filepath="$PROJECT_DIR$/justSolutions/RemoveElem/RemoveElem.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/SearchInsPos/SearchInsPos.iml" filepath="$PROJECT_DIR$/justSolutions/SearchInsPos/SearchInsPos.iml" />
