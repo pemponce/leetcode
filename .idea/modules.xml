@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/AddBinary/AddBinary.iml" filepath="$PROJECT_DIR$/justSolutions/AddBinary/AddBinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/LastWordLen/LastWordLen.iml" filepath="$PROJECT_DIR$/justSolutions/LastWordLen/LastWordLen.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/MergeTwoSortedLists/MergeTwoSortedLists.iml" filepath="$PROJECT_DIR$/justSolutions/MergeTwoSortedLists/MergeTwoSortedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/justSolutions/PlusOne/PlusOne.iml" filepath="$PROJECT_DIR$/justSolutions/PlusOne/PlusOne.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/secDay/secDay.iml" filepath="$PROJECT_DIR$/secDay/secDay.iml" />
       <module fileurl="file://$PROJECT_DIR$/tasks_1_day/second/second.iml" filepath="$PROJECT_DIR$/tasks_1_day/second/second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justSolutions/tink/tink.iml" filepath="$PROJECT_DIR$/justSolutions/tink/tink.iml" />
     </modules>
   </component>
 </project>
